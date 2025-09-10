@@ -1,0 +1,5 @@
+{
+  "name": "CCTV E-commerce Platform",
+  "description": "A specialized e-commerce website for CCTV cameras and security systems. Features a customer-facing storefront to browse and purchase various camera types, and a comprehensive admin panel for managing products, orders, and customers.",
+  "requestFramePermissions": []
+}
