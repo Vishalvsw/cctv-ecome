@@ -82,12 +82,12 @@ const HomePage: React.FC = () => {
     const [isPopupVisible, setIsPopupVisible] = useState(false);
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
-    const heroImages = [
-        "Vishalvsw/cctv-ecome/images/hero1.png",
-        "Vishalvsw/cctv-ecome/images/hero2.png",
-        "Vishalvsw/cctv-ecome/images/Generated Image September 09, 2025 - 1_09PM.png" 
-        // Adding a third image for sliding
-    ];
+const heroImages = [
+  "/images/hero1.png",
+  "/images/hero2.png",
+  "/images/Generated Image September 09, 2025 - 1_09PM.png" // Adding a third image for sliding
+];
+
 
 
     useEffect(() => {
